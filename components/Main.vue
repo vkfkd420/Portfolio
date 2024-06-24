@@ -6,7 +6,7 @@
       <nav id="nav">
         <div class="fav">
           <div>
-            <img src="~/assets/css/images/fav.png" alt="" />
+            <img src="~/assets/images/fav.png" alt="" />
           </div>
           <div>
             <span>KHM's Portfolio</span>
@@ -53,7 +53,7 @@
           <div class="row aln-center">
             <div class="col-4 col-6-medium col-12-small">
               <section class="box style1">
-                <img src="~/assets/css/images/icon/profile.png" alt="profile" />
+                <img src="~/assets/images/profile.png" alt="profile" />
                 <div class="inner">
                   <h3>이름</h3>
                   <p>강현민</p>
@@ -62,7 +62,7 @@
             </div>
             <div class="col-4 col-6-medium col-12-small">
               <section class="box style1">
-                <img src="~/assets/css/images/icon/calendar.png" alt="calendar" />
+                <img src="~/assets/images/calendar.png" alt="calendar" />
                 <div class="inner">
                   <h3>생년월일</h3>
                   <p>94.04.20</p>
@@ -71,7 +71,7 @@
             </div>
             <div class="col-4 col-6-medium col-12-small">
               <section class="box style1">
-                <img src="~/assets/css/images/icon/home.png" alt="home" />
+                <img src="~/assets/images/home.png" alt="home" />
                 <div class="inner">
                   <h3>주소지</h3>
                   <p>서울특별시 영등포구</p>
@@ -82,7 +82,7 @@
           <div class="row aln-center">
             <div class="col-4 col-6-medium col-12-small">
               <section class="box style1">
-                <img src="~/assets/css/images/icon/tel.png" alt="tel" />
+                <img src="~/assets/images/tel.png" alt="tel" />
                 <div class="inner">
                   <h3>연락처</h3>
                   <p>010-2982-9609</p>
@@ -91,7 +91,7 @@
             </div>
             <div class="col-4 col-6-medium col-12-small">
               <section class="box style1">
-                <img src="~/assets/css/images/icon/email.png" alt="email" />
+                <img src="~/assets/images/email.png" alt="email" />
                 <div class="inner">
                   <h3>이메일</h3>
                   <p>vkfkd420@naver.com</p>
@@ -100,7 +100,7 @@
             </div>
             <div class="col-4 col-6-medium col-12-small">
               <section class="box style1">
-                <img src="~/assets/css/images/icon/education.png" alt="education" />
+                <img src="~/assets/images/education.png" alt="education" />
                 <div class="inner">
                   <h3>학력</h3>
                   <p>서일대학교(정보통신학과)</p>
