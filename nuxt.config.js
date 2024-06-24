@@ -1,7 +1,8 @@
 export default {
+  ssr: false,
   target: 'static', // 정적 웹사이트임을 명시
   router: {
-    base: '/Portfolio/' // github repository 이름 넣기
+    base: '/portfolio/' // github repository 이름 넣기
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
