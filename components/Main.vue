@@ -5,7 +5,7 @@
       <!-- Nav -->
       <nav id="nav">
         <div class="fav">
-          <div>
+          <div @click="top()">
             <img src="~/assets/images/fav.png" alt="" />
           </div>
           <div>
@@ -17,7 +17,7 @@
           <li><a href="#work">ABOUT ME</a></li>
           <li><a href="#skills">SKILLS</a></li>
           <li><a href="#portfolio">PORTFOLIO</a></li>
-          <li><a href="#contact">CONTACT</a></li>
+          <!-- <li><a href="#contact">CONTACT</a></li> -->
         </ul>
       </nav>
 
@@ -158,12 +158,12 @@
       </article>
 
       <!-- Scripts -->
-      <script src="assets/js/jquery.min.js"></script>
+      <!-- <script src="assets/js/jquery.min.js"></script>
       <script src="assets/js/jquery.scrolly.min.js"></script>
       <script src="assets/js/browser.min.js"></script>
       <script src="assets/js/breakpoints.min.js"></script>
       <script src="assets/js/util.js"></script>
-      <script src="assets/js/main.js"></script>
+      <script src="assets/js/main.js"></script> -->
     </body>
   </div>
 </template>
@@ -174,6 +174,11 @@ export default {
   name: 'Main',
   components: {
     Project
+  },
+  methods: {
+    top () {
+
+    }
   }
 }
 </script>

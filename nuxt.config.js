@@ -20,12 +20,12 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ],
     script: [
-      { src: '~/assets/js/jquery.min.js', defer: true },
-      { src: '~/assets/js/jquery.scrolly.min.js', defer: true },
-      { src: '~/assets/js/browser.min.js', defer: true },
-      { src: '~/assets/js/breakpoints.min.js', defer: true },
-      { src: '~/assets/js/util.js', defer: true },
-      { src: '~/assets/js/main.js', defer: true }
+      // { src: '~/assets/js/jquery.min.js', defer: true },
+      // { src: '~/assets/js/jquery.scrolly.min.js', defer: true },
+      // { src: '~/assets/js/browser.min.js', defer: true },
+      // { src: '~/assets/js/breakpoints.min.js', defer: true },
+      // { src: '~/assets/js/util.js', defer: true },
+      // { src: '~/assets/js/main.js', defer: true }
       // 추가적인 스크립트를 필요에 따라 설정
     ],
   },

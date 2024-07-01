@@ -64,12 +64,12 @@
 export default {
   data: () => ({
     project: [
-      { title: '프로젝트1', text: '설명입니다1', img: '/images/pic01.jpg', url: 'url입니다1' },
-      { title: '프로젝트2', text: '설명입니다2', img: '/images/pic02.jpg', url: 'url입니다1' },
-      { title: '프로젝트3', text: '설명입니다3', img: '/images/pic03.jpg', url: 'url입니다1' },
-      { title: '프로젝트4', text: '설명입니다4', img: '/images/pic04.jpg', url: 'url입니다1' },
-      { title: '프로젝트5', text: '설명입니다5', img: '/images/pic05.jpg', url: 'url입니다1' },
-      { title: '프로젝트6', text: '설명입니다6', img: '/images/pic06.jpg', url: 'url입니다1' }
+      { title: '프로젝트1', text: '설명입니다1', img: require('@/assets/images/pic01.jpg'), url: 'url입니다1' },
+      { title: '프로젝트2', text: '설명입니다2', img: require('@/assets/images/pic02.jpg'), url: 'url입니다1' },
+      { title: '프로젝트3', text: '설명입니다3', img: require('@/assets/images/pic03.jpg'), url: 'url입니다1' },
+      { title: '프로젝트4', text: '설명입니다4', img: require('@/assets/images/pic04.jpg'), url: 'url입니다1' },
+      { title: '프로젝트5', text: '설명입니다5', img: require('@/assets/images/pic05.jpg'), url: 'url입니다1' },
+      { title: '프로젝트6', text: '설명입니다6', img: require('@/assets/images/pic06.jpg'), url: 'url입니다1' }
     ]
   })
 }
